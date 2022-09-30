@@ -11,7 +11,7 @@ This project stack and setup, requires:-
     
 ## Project Setup
 
-eIDSR App is made up of 4 architectures, namely;-
+eIDSR App is made up of 2 services, namely;-
 
 - DHIS2 as the data warehouse, manager, and backend.
 -  Mediator, used for integration with national and referral hospitals and acting as the bridge between the national and referral hospitals and the DHIS2 API and data persistent layer.
